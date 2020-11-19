@@ -1,0 +1,6 @@
+name: root
+channels:
+  - defaults
+dependencies:
+  - postgresql
+  - psycopg2
